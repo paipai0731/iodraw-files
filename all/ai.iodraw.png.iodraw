@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-16" value="无界交互层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="590" y="380" width="150" height="80" as="geometry" />
+          <mxGeometry x="560" y="380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-17" value="高精度三参传感器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="30" y="560" width="120" height="60" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="375" y="490" width="95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EBOHgk3YiWdaP9mZglXv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=10.5;exitPerimeter=0;" edge="1" parent="1" source="EBOHgk3YiWdaP9mZglXv-14" target="EBOHgk3YiWdaP9mZglXv-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
