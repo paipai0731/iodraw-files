@@ -26,7 +26,7 @@
           <mxGeometry x="690" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-5" value="智能执行层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="348.24" y="380" width="151.76" height="75" as="geometry" />
+          <mxGeometry x="348.24" y="380" width="151.76" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-6" value="双装置智控系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
