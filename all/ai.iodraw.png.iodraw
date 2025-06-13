@@ -31,9 +31,6 @@
         <mxCell id="EBOHgk3YiWdaP9mZglXv-6" value="双装置智控系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="365" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EBOHgk3YiWdaP9mZglXv-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="65" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="500" width="70" height="100" as="geometry" />
         </mxCell>
