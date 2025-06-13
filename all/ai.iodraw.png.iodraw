@@ -20,7 +20,7 @@
           <mxGeometry x="206.46" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-20" value="AI对话引擎" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="520" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="534.49" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-21" value="小程序云控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="690" y="550" width="120" height="60" as="geometry" />
