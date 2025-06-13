@@ -7,7 +7,7 @@
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-14" value="多模态AI中枢" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="319.49" y="150" width="215" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-15" value="全域感知层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-15" value="全域感知层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="140" y="380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-16" value="无界交互层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-21" value="小程序云控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="700" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EBOHgk3YiWdaP9mZglXv-5" value="智能执行层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="EBOHgk3YiWdaP9mZglXv-5" value="智能执行层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="348.24" y="380" width="151.76" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-6" value="双装置智控系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
