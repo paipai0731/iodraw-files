@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-16" value="无界交互层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-17" value="高精度三参传感器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="120" height="60" as="geometry" />
@@ -40,8 +40,8 @@
         <mxCell id="EBOHgk3YiWdaP9mZglXv-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-225;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EBOHgk3YiWdaP9mZglXv-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-225;" vertex="1" parent="1">
-          <mxGeometry x="540" y="310" width="120" height="50" as="geometry" />
+        <mxCell id="EBOHgk3YiWdaP9mZglXv-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
