@@ -23,7 +23,7 @@
           <mxGeometry x="534.49" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-21" value="小程序云控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="710" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-5" value="智能执行层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="348.24" y="380" width="151.76" height="80" as="geometry" />
@@ -43,8 +43,8 @@
         <mxCell id="EBOHgk3YiWdaP9mZglXv-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="375" y="500" width="95" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="EBOHgk3YiWdaP9mZglXv-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-240;" vertex="1" parent="1">
-          <mxGeometry x="89.23" y="493.9" width="90" height="28.64" as="geometry" />
+        <mxCell id="EBOHgk3YiWdaP9mZglXv-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-230;" vertex="1" parent="1">
+          <mxGeometry x="110" y="493.9" width="90" height="28.64" as="geometry" />
         </mxCell>
         <mxCell id="EBOHgk3YiWdaP9mZglXv-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="90" height="28.64" as="geometry" />
