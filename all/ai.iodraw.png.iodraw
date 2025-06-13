@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-14" value="多模态AI中枢" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-14" value="多模态AI中枢" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="319.49" y="150" width="215" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-15" value="全域感知层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-15" value="全域感知层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="140" y="380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xIWzsGFPb-S9_0_Hd5Ge-16" value="无界交互层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
