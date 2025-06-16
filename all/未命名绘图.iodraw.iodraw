@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-17" value="订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kQoH-8l2fbd6IaZMfA1A-15">
           <mxGeometry x="-0.6339" y="1" relative="1" as="geometry">
-            <mxPoint x="20" y="26" as="offset" />
+            <mxPoint x="30" y="26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-18" value="发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
