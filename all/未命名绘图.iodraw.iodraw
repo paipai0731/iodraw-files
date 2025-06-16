@@ -55,10 +55,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-21" value="订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230.22374819002084" y="330.4790445744612" as="geometry" />
+          <mxGeometry x="230.22374819002084" y="324.9990445744612" as="geometry">
+            <mxPoint x="17" y="108" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-22" value="订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240.22374819002084" y="340.4790445744612" as="geometry">
+          <mxGeometry x="240.22374819002084" y="349.9990445744612" as="geometry">
             <mxPoint x="264" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
