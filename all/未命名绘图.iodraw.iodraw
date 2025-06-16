@@ -7,7 +7,7 @@
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-1" value="onenet云平台&lt;div&gt;（MQTT服务器端）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="kQoH-8l2fbd6IaZMfA1A-2" value="STM32" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQoH-8l2fbd6IaZMfA1A-2" value="&lt;b&gt;STM32&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Jeston nano&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
