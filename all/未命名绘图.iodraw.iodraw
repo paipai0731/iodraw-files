@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-23" value="订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-25;" vertex="1" connectable="0" parent="kQoH-8l2fbd6IaZMfA1A-12">
           <mxGeometry x="-0.066" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="12" as="offset" />
+            <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-24" value="发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-25;" vertex="1" connectable="0" parent="kQoH-8l2fbd6IaZMfA1A-12">
