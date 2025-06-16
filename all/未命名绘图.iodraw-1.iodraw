@@ -34,8 +34,11 @@
         <mxCell id="RjSEYpYm8QiE3QhnK823-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjSEYpYm8QiE3QhnK823-10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=south;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="100" y="570" width="40" height="30" as="geometry" />
+        <mxCell id="RjSEYpYm8QiE3QhnK823-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
