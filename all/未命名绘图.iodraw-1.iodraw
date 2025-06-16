@@ -36,8 +36,11 @@
         </mxCell>
         <mxCell id="RjSEYpYm8QiE3QhnK823-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="620" as="sourcePoint" />
+            <mxPoint x="210" y="620" as="sourcePoint" />
             <mxPoint x="140" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
