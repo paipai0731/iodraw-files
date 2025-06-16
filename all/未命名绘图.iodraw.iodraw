@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kQoH-8l2fbd6IaZMfA1A-1" value="onenet云平台&lt;div&gt;（MQTT服务器端）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kQoH-8l2fbd6IaZMfA1A-1" value="&lt;b&gt;onenet云平台&lt;/b&gt;&lt;div&gt;&lt;b&gt;（MQTT服务器端）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-2" value="&lt;b&gt;STM32&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Jeston nano&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQoH-8l2fbd6IaZMfA1A-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQoH-8l2fbd6IaZMfA1A-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
