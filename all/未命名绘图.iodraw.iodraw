@@ -13,7 +13,7 @@
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Jeston nano&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQoH-8l2fbd6IaZMfA1A-4" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQoH-8l2fbd6IaZMfA1A-4" value="&lt;b&gt;微信小程序&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQoH-8l2fbd6IaZMfA1A-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -32,6 +32,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="360" as="sourcePoint" />
             <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQoH-8l2fbd6IaZMfA1A-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kQoH-8l2fbd6IaZMfA1A-8">
+          <mxGeometry x="0.0036" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
