@@ -54,6 +54,9 @@
             <mxPoint x="-33" y="99" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kQoH-8l2fbd6IaZMfA1A-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="388" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
