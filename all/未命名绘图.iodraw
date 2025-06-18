@@ -22,7 +22,7 @@
             <mxPoint x="590" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RjSEYpYm8QiE3QhnK823-5" value="多模态AI中枢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#79fcfc;strokeColor=#a5dceb;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="RjSEYpYm8QiE3QhnK823-5" value="多模态AI中枢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a5dceb;strokeColor=#a5dceb;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjSEYpYm8QiE3QhnK823-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#a5dceb;" parent="1" edge="1">
@@ -89,7 +89,7 @@
           <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa2h6WFh8SfpP5_AuihL-7" value="多模态AI中枢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#79fcfc;strokeColor=#a5dceb;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
