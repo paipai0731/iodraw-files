@@ -70,7 +70,7 @@
         <mxCell id="RjSEYpYm8QiE3QhnK823-22" value="小程序云控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#a5dceb;" parent="1" vertex="1">
           <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjSEYpYm8QiE3QhnK823-23" value="双装置智控系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#a5dceb;" parent="1" vertex="1">
+        <mxCell id="RjSEYpYm8QiE3QhnK823-23" value="双装置智控系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#79fcfc;strokeColor=#a5dceb;" parent="1" vertex="1">
           <mxGeometry x="300" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjSEYpYm8QiE3QhnK823-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#a5dceb;" parent="1" target="RjSEYpYm8QiE3QhnK823-23" edge="1">
